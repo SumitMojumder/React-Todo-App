@@ -1,14 +1,9 @@
-# Getting Started with Create React App
+# React Todo App
 
-## How to use the template?
+THis is a simple web interface done with react by me.
 
--   fork
--   clone to your local machine
--   npm install
--   npm start
+Here one can add add Todo work and then also delete them
 
-## Template Includes
+Each Todo Consists of Todo name and Todo Description
 
--   react-icons
--   Eslint
--   Prettier
+## Visual link: https://66c249ce5b098bd89bea1d84--storied-vacherin-eedc25.netlify.app/
