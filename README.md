@@ -1,7 +1,14 @@
-# React-Todo-App
+# Getting Started with Create React App
 
-THis is a Simple React Todo App
+## How to use the template?
 
-This project is done using React
+-   fork
+-   clone to your local machine
+-   npm install
+-   npm start
 
-#Visual link: https://66c249ce5b098bd89bea1d84--storied-vacherin-eedc25.netlify.app/
+## Template Includes
+
+-   react-icons
+-   Eslint
+-   Prettier
